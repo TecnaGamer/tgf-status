@@ -40,19 +40,19 @@
     "url": "archive.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-archive-server",
-    "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.73%",
+    "uptimeDay": "1.73%",
+    "uptimeWeek": "1.73%",
+    "uptimeMonth": "1.73%",
+    "uptimeYear": "1.73%",
+    "time": 22,
+    "timeDay": 22,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22,
     "dailyMinutesDown": {
-      "2025-09-27": 0
+      "2025-09-27": 4
     }
   }
 ]
