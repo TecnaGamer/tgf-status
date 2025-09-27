@@ -9,6 +9,11 @@ sites:
     url: mc.tgforever.net
     port: 25575
     check: "_minecraft"
+  - name: TGF Atchive Server
+    url: archive.tgforever.net
+    port: 25572
+    check: "_minecraft"
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
