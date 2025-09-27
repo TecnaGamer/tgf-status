@@ -6,9 +6,11 @@ sites:
   - name: TGF Panel
     url: https://panel.tgforever.net
   - name: TGF Survival Server
+    check: "tcp-ping"
     url: mc.tgforever.net
     port: 25575
-  - name: TGF Atchive Server
+  - name: TGF Archive Server
+    check: "tcp-ping"
     url: archive.tgforever.net
     port: 25572
 
