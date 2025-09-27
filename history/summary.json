@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 344,
-    "timeWeek": 344,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -28,29 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
-    "name": "TGF Atchive Server",
+    "name": "TGF Archive Server",
     "url": "archive.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "tgf-atchive-server",
+    "slug": "tgf-archive-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "22.94%",
+    "uptimeDay": "22.94%",
+    "uptimeWeek": "22.94%",
+    "uptimeMonth": "22.94%",
+    "uptimeYear": "22.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-27": 0
+    }
   }
 ]
