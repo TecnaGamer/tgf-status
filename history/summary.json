@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "time": 384,
+    "timeDay": 525,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 325,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 288,
+    "timeDay": 32,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-archive-server",
     "status": "up",
-    "uptime": "1.73%",
-    "uptimeDay": "1.73%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "1.73%",
-    "uptimeYear": "1.73%",
-    "time": 22,
-    "timeDay": 22,
-    "timeWeek": 22,
-    "timeMonth": 22,
-    "timeYear": 22,
-    "dailyMinutesDown": {
-      "2025-09-27": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 29,
+    "timeDay": 36,
+    "timeWeek": 29,
+    "timeMonth": 29,
+    "timeYear": 29,
+    "dailyMinutesDown": {}
   }
 ]
