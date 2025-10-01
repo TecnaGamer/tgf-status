@@ -4,19 +4,19 @@
     "url": "https://panel.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.tgforever.net.ico",
     "slug": "tgf-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 507,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 387,
+    "timeDay": 470,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 20
     }
   },
   {
