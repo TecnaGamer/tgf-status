@@ -8,11 +8,15 @@ sites:
   - name: TGF Survival Server
     check: "tcp-ping"
     url: mc.tgforever.net
-    port: 25575
+    port: 25565
   - name: TGF Archive Server
     check: "tcp-ping"
     url: archive.tgforever.net
     port: 25572
+  - name: LangCraft
+    check: "tcp-ping"
+    url: langcraft.tgforever.net
+    port: 25569
 
 
 status-website:
