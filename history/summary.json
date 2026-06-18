@@ -4,11 +4,11 @@
     "url": "https://panel.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.tgforever.net.ico",
     "slug": "tgf-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.32%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "95.29%",
     "uptimeYear": "99.26%",
     "time": 294,
     "timeDay": 105,
@@ -28,7 +28,8 @@
       "2026-05-24": 1202,
       "2026-05-23": 318,
       "2026-06-02": 411,
-      "2026-06-01": 120
+      "2026-06-01": 120,
+      "2026-06-18": 12
     }
   },
   {
@@ -36,11 +37,11 @@
     "url": "mc.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-survival-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.34%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "95.32%",
     "uptimeYear": "98.72%",
     "time": 53,
     "timeDay": 18,
@@ -62,7 +63,8 @@
       "2026-05-24": 1202,
       "2026-05-23": 314,
       "2026-06-02": 411,
-      "2026-06-01": 116
+      "2026-06-01": 116,
+      "2026-06-18": 8
     }
   },
   {
@@ -70,11 +72,11 @@
     "url": "archive.tgforever.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-archive-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.35%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "95.34%",
     "uptimeYear": "99.37%",
     "time": 47,
     "timeDay": 19,
@@ -91,7 +93,8 @@
       "2026-05-24": 1202,
       "2026-05-23": 310,
       "2026-06-02": 411,
-      "2026-06-01": 112
+      "2026-06-01": 112,
+      "2026-06-18": 4
     }
   },
   {
@@ -100,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lang-craft",
     "status": "down",
-    "uptime": "22.38%",
+    "uptime": "22.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.38%",
+    "uptimeYear": "22.35%",
     "time": 45,
     "timeDay": 0,
     "timeWeek": 0,
@@ -136,7 +139,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1020,
-      "2026-06-18": 265,
+      "2026-06-18": 672,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
