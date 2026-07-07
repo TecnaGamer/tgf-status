@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.tgforever.net.ico",
     "slug": "tgf-panel",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.21%",
+    "uptimeDay": "85.27%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.21%",
     "time": 289,
     "timeDay": 0,
     "timeWeek": 157,
@@ -30,7 +30,7 @@
       "2026-06-02": 411,
       "2026-06-01": 120,
       "2026-06-18": 191,
-      "2026-07-07": 12
+      "2026-07-07": 212
     }
   },
   {
@@ -39,11 +39,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-survival-server",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.71%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "98.71%",
     "time": 52,
     "timeDay": 0,
     "timeWeek": 24,
@@ -66,7 +66,7 @@
       "2026-06-02": 411,
       "2026-06-01": 116,
       "2026-06-18": 187,
-      "2026-07-07": 8
+      "2026-07-07": 208
     }
   },
   {
@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tgf-archive-server",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.31%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.31%",
     "time": 47,
     "timeDay": 0,
     "timeWeek": 25,
@@ -97,7 +97,7 @@
       "2026-06-02": 411,
       "2026-06-01": 112,
       "2026-06-18": 183,
-      "2026-07-07": 4
+      "2026-07-07": 204
     }
   },
   {
@@ -106,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lang-craft",
     "status": "down",
-    "uptime": "20.73%",
+    "uptime": "20.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.73%",
+    "uptimeYear": "20.72%",
     "time": 45,
     "timeDay": 0,
     "timeWeek": 0,
@@ -142,7 +142,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1020,
-      "2026-07-07": 32,
+      "2026-07-07": 231,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
